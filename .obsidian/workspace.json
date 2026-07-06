@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zanzi/Dashboards/Goals.md",
+                "file": "Spocchia/Tasks/2026-07-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "2026-07-05"
             }
           }
         ]
@@ -185,20 +185,24 @@
   },
   "active": "0dd3ab4d5d0e5d87",
   "lastOpenFiles": [
-    "Shared/Tasks/2026-07-05.md",
-    "Shared/Goals/Workouts.md",
-    "Shared/Goals/House cleaning.md",
-    "Shared/Dashboards/Goals.md",
-    "Shared/Dashboards/Daily.canvas",
-    "Shared/Tasks",
-    "Shared/Goals",
-    "Shared/Dashboards",
-    "Shared",
-    "Spocchia/Tasks/2026-07-05.md",
     "Spocchia/Goals/Workouts.md",
     "Spocchia/Goals/House cleaning.md",
     "Spocchia/Dashboards/Goals.md",
     "Spocchia/Dashboards/Daily.canvas",
+    "Spocchia/Tasks/2026-07-05.md",
+    "Shared/Dashboards/Daily.canvas",
+    "Shared/Tasks/2026-07-05.md",
+    "Shared/Dashboards/Goals.md",
+    "Zanzi/Goals/Workouts.md",
+    "Zanzi/Dashboards/Daily.canvas",
+    "Zanzi/Dashboards/Goals.md",
+    "Zanzi/Goals/House cleaning.md",
+    "Shared/Goals/Workouts.md",
+    "Shared/Goals/House cleaning.md",
+    "Shared/Tasks",
+    "Shared/Goals",
+    "Shared/Dashboards",
+    "Shared",
     "Spocchia/Tasks",
     "Spocchia/Goals",
     "Spocchia/Dashboards",
@@ -220,12 +224,7 @@
     "Zanzi copy/Goals/House cleaning.md",
     "Zanzi copy/Dashboards/Goals.md",
     "Zanzi copy/Dashboards/Daily.canvas",
-    "Zanzi/Dashboards/Goals.md",
-    "Zanzi/Goals/House cleaning.md",
-    "Zanzi/Goals/Workouts.md",
-    "Zanzi/Dashboards/Daily.canvas",
     "Zanzi/Tasks/2026-07-05.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Untitled.md"
   ]
 }

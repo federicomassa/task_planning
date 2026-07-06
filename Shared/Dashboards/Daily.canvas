@@ -3,7 +3,7 @@
 		{
 			"id":"c6851bb1e2a54604",
 			"type":"text",
-			"text":"**STARTED**\n\n```tasks\nnot done\nhide tags\ndue today\nhas start date\nsort by due date\nshort mode\npath includes Zanzi/\n```",
+			"text":"**STARTED**\n\n```tasks\nnot done\nhide tags\ndue today\nhas start date\nsort by due date\nshort mode\npath includes Shared/\n```",
 			"styleAttributes":{},
 			"x":-100,
 			"y":-340,
@@ -14,7 +14,7 @@
 		{
 			"id":"652d9c35f0aad608",
 			"type":"text",
-			"text":"**DONE**\n\n```tasks\ndone\nhide tags\nhide backlinks\ndue today\nsort by due date\nshort mode\npath includes Zanzi/\n```",
+			"text":"**DONE**\n\n```tasks\ndone\nhide tags\nhide backlinks\ndue today\nsort by due date\nshort mode\npath includes Shared/\n```",
 			"styleAttributes":{},
 			"x":220,
 			"y":-340,
@@ -25,7 +25,7 @@
 		{
 			"id":"3694541ab1964a82",
 			"type":"text",
-			"text":"**BACKLOG**\n\n```tasks\nnot done\nno scheduled date\nno start date\nno due date\nhide tags\nshort mode\npath includes Zanzi/\n```",
+			"text":"**BACKLOG**\n\n```tasks\nnot done\nno scheduled date\nno start date\nno due date\nhide tags\nshort mode\npath includes Shared/\n```",
 			"styleAttributes":{},
 			"x":500,
 			"y":-340,
@@ -36,7 +36,7 @@
 		{
 			"id":"b6b9974c4860a2df",
 			"type":"text",
-			"text":"**DAILY TODO**\n\n```tasks\nnot done\nhide tags\ndue on or before today\nno start date\nsort by due date\nshort mode\npath includes Zanzi/\n```",
+			"text":"**DAILY TODO**\n\n```tasks\nnot done\nhide tags\ndue on or before today\nno start date\nsort by due date\nshort mode\npath includes Shared/\n```",
 			"styleAttributes":{},
 			"x":-440,
 			"y":-340,
@@ -47,7 +47,7 @@
 		{
 			"id":"d56f5862048947bd",
 			"type":"text",
-			"text":"**OVERDUE**\n\n```tasks\nnot done\nhide tags\ndue before today\nno start date\nsort by due date\nshort mode\npath includes Zanzi/\n```",
+			"text":"**OVERDUE**\n\n```tasks\nnot done\nhide tags\ndue before today\nno start date\nsort by due date\nshort mode\npath includes Shared/\n```",
 			"styleAttributes":{},
 			"x":-780,
 			"y":-340,
