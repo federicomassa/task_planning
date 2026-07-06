@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "097902b25e398cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce52979570d6777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd3ab4d5d0e5d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zanzi/Dashboards/Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d07acc252e973f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "290ba87bbd60dd06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b6fb60b219079f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3702deabdec98689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "997845fb0553e3e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9309acfd1e7f102c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e35c16a037d09cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4761f96836bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboards/Goals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Goals"
+            }
+          },
+          {
+            "id": "1fb463caf0a97392",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboards/Goals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Goals"
+            }
+          },
+          {
+            "id": "fc1d6da77a3e8498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a4e37104d456433",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a4caa9dcf7817625",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboards/Goals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Goals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0dd3ab4d5d0e5d87",
+  "lastOpenFiles": [
+    "Shared/Tasks/2026-07-05.md",
+    "Shared/Goals/Workouts.md",
+    "Shared/Goals/House cleaning.md",
+    "Shared/Dashboards/Goals.md",
+    "Shared/Dashboards/Daily.canvas",
+    "Shared/Tasks",
+    "Shared/Goals",
+    "Shared/Dashboards",
+    "Shared",
+    "Spocchia/Tasks/2026-07-05.md",
+    "Spocchia/Goals/Workouts.md",
+    "Spocchia/Goals/House cleaning.md",
+    "Spocchia/Dashboards/Goals.md",
+    "Spocchia/Dashboards/Daily.canvas",
+    "Spocchia/Tasks",
+    "Spocchia/Goals",
+    "Spocchia/Dashboards",
+    "Spocchia",
+    "Zanzi copy 2/Tasks/2026-07-05.md",
+    "Zanzi copy 2/Tasks",
+    "Zanzi copy 2/Goals/Workouts.md",
+    "Zanzi copy 2/Goals/House cleaning.md",
+    "Zanzi copy 2/Dashboards/Goals.md",
+    "Zanzi copy 2/Dashboards/Daily.canvas",
+    "Zanzi copy 2/Goals",
+    "Zanzi copy/Zanzi/Tasks/2026-07-05.md",
+    "Zanzi copy/Zanzi/Goals/Workouts.md",
+    "Zanzi copy/Zanzi/Goals/House cleaning.md",
+    "Zanzi copy/Zanzi/Dashboards/Goals.md",
+    "Zanzi copy/Zanzi/Dashboards/Daily.canvas",
+    "Zanzi copy/Tasks/2026-07-05.md",
+    "Zanzi copy/Goals/Workouts.md",
+    "Zanzi copy/Goals/House cleaning.md",
+    "Zanzi copy/Dashboards/Goals.md",
+    "Zanzi copy/Dashboards/Daily.canvas",
+    "Zanzi/Dashboards/Goals.md",
+    "Zanzi/Goals/House cleaning.md",
+    "Zanzi/Goals/Workouts.md",
+    "Zanzi/Dashboards/Daily.canvas",
+    "Zanzi/Tasks/2026-07-05.md",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}

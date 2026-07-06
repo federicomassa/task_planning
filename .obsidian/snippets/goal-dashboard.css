@@ -1,0 +1,14 @@
+.goal-dashboard-wrapper {
+    margin-top: 1em;
+}
+
+.goal-dashboard {
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(340px, 1fr));
+
+    gap: 16px;
+
+    align-items: start;
+}

@@ -1,0 +1,95 @@
+/* ---------- Base card ---------- */
+
+.goal-card {
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 14px;
+    padding: 16px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* ---------- Status colors ---------- */
+
+.goal-card.goal-complete {
+    border-left: 6px solid var(--color-green);
+}
+
+.goal-card.goal-on-track {
+    border-left: 6px solid var(--color-blue);
+}
+
+.goal-card.goal-behind {
+    border-left: 6px solid var(--color-red);
+}
+
+.goal-card.goal-unplanned {
+    border-left: 6px solid var(--text-normal);
+}
+
+.goal-card.goal-unplanned .goal-card-progress-fill {
+    background: var(--text-normal);
+}
+
+/* ---------- Header ---------- */
+
+.goal-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.goal-card-title {
+    font-size: 1.15em;
+    font-weight: 700;
+}
+
+.goal-card-status {
+    white-space: nowrap;
+    font-size: 0.9em;
+}
+
+/* ---------- Progress ---------- */
+
+.goal-card-progress-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.goal-card-progress-percent {
+    color: var(--text-muted);
+}
+
+.goal-card-progress-bar {
+    width: 100%;
+    height: 8px;
+
+    background: var(--background-modifier-border);
+
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.goal-card-progress-fill {
+    height: 100%;
+    background: var(--interactive-accent);
+}
+
+/* ---------- Details ---------- */
+
+.goal-card-details {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.goal-card-muted {
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
